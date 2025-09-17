@@ -1,0 +1,14 @@
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\bin\Debug\net9.0\PracticeCodeChum.exe
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\bin\Debug\net9.0\PracticeCodeChum.deps.json
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\bin\Debug\net9.0\PracticeCodeChum.runtimeconfig.json
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\bin\Debug\net9.0\PracticeCodeChum.dll
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\bin\Debug\net9.0\PracticeCodeChum.pdb
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\PracticeCodeChum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\PracticeCodeChum.AssemblyInfoInputs.cache
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\PracticeCodeChum.AssemblyInfo.cs
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\PracticeCodeChum.csproj.CoreCompileInputs.cache
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\PracticeCodeChum.dll
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\refint\PracticeCodeChum.dll
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\PracticeCodeChum.pdb
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\PracticeCodeChum.genruntimeconfig.cache
+C:\Users\asus user\OneDrive\Documents\C#\PracticeCodeChum\obj\Debug\net9.0\ref\PracticeCodeChum.dll
