@@ -1,0 +1,14 @@
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\bin\Debug\net9.0\OrderForm.exe
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\bin\Debug\net9.0\OrderForm.deps.json
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\bin\Debug\net9.0\OrderForm.runtimeconfig.json
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\bin\Debug\net9.0\OrderForm.dll
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\bin\Debug\net9.0\OrderForm.pdb
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\OrderForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\OrderForm.AssemblyInfoInputs.cache
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\OrderForm.AssemblyInfo.cs
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\OrderForm.csproj.CoreCompileInputs.cache
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\OrderForm.dll
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\refint\OrderForm.dll
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\OrderForm.pdb
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\OrderForm.genruntimeconfig.cache
+C:\Users\asus user\OneDrive\Documents\C#\OrderForm\obj\Debug\net9.0\ref\OrderForm.dll
