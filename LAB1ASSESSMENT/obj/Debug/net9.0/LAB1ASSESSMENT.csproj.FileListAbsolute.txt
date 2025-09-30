@@ -1,0 +1,14 @@
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\bin\Debug\net9.0\LAB1ASSESSMENT.exe
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\bin\Debug\net9.0\LAB1ASSESSMENT.deps.json
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\bin\Debug\net9.0\LAB1ASSESSMENT.runtimeconfig.json
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\bin\Debug\net9.0\LAB1ASSESSMENT.dll
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\bin\Debug\net9.0\LAB1ASSESSMENT.pdb
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\LAB1ASSESSMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\LAB1ASSESSMENT.AssemblyInfoInputs.cache
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\LAB1ASSESSMENT.AssemblyInfo.cs
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\LAB1ASSESSMENT.csproj.CoreCompileInputs.cache
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\LAB1ASSESSMENT.dll
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\refint\LAB1ASSESSMENT.dll
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\LAB1ASSESSMENT.pdb
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\LAB1ASSESSMENT.genruntimeconfig.cache
+C:\Users\asus user\OneDrive\Documents\C#\LAB1ASSESSMENT\obj\Debug\net9.0\ref\LAB1ASSESSMENT.dll
